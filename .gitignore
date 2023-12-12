@@ -30,7 +30,7 @@
 /**/*.bak
 /**/*.suo
 /**/*.user
-/**/*.sln
+# /**/*.sln
 /**/*.db
 /**/*.metaproj
 /**/*.metaproj.tmp
